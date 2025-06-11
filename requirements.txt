@@ -1,0 +1,5 @@
+python-telegram-bot==22.1
+pyrogram==2.0.106
+aiofiles==23.2.1
+python-dotenv==1.0.0
+schedule==1.2.0 

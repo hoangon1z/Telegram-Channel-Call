@@ -1,0 +1,13 @@
+include README.md
+include requirements.txt
+include .env.example
+include LICENSE
+recursive-include docs *.md
+recursive-include bot *.py
+global-exclude __pycache__
+global-exclude *.pyc
+global-exclude *.pyo
+global-exclude *.orig
+global-exclude *.rej
+global-exclude *~
+global-exclude .DS_Store 
